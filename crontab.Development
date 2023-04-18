@@ -1,0 +1,2 @@
+# run hello.py every minute
+* * * * * /usr/convertftw/jobs/hello.py
